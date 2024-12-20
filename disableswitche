@@ -1,6 +1,0 @@
-if _G.disableswitch == nil then
-_G.disableswitch = "ON"
-game.Players.LocalPlayer:Kick("Trial is gone dm me on dc 100 robuk to get it perm enzoe15226")
-else
-game.Players.LocalPlayer:Kick("you really huh")
-end
