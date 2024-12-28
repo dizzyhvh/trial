@@ -1,1 +1,2 @@
-disableswitch = "off"
+game:GetService("Players").LocalPlayer:Kick("The Trial has Ended")
+return true
