@@ -1,2 +1,2 @@
-disableswitch = "off"
-local app
+print("Hell Naw!")
+return true
